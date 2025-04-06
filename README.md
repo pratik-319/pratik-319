@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-319&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-319" /> </p>
 
-- 🌱 I’m **Full Stack Developer**
+- 🌱 I’m **Full Stack Web Developer**
 
 - 🌱 I’m **Flutter Developer**
-
-- ⚡ Fun fact **I'm FuNnY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
